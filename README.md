@@ -1,4 +1,10 @@
-### Hi there 👋
+My personal repository.
+
+💻 im a first year engineering student from Bhopal, India
+
+📑 currently working on my final project of CS50 Intro to CS course
+
+📩 contact me via mail at mahima13patel@gmail.com### Hi there 👋
 
 <!--
 **mahimapatel13/mahimapatel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
