@@ -4,7 +4,7 @@ My personal repository.
 
 📑 currently working on my final project of CS50 Intro to CS course
 
-📩 contact me via mail at mahima13patel@gmail.com### Hi there 👋
+📩 contact me via mail at mahima13patel@gmail.com
 
 <!--
 **mahimapatel13/mahimapatel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
