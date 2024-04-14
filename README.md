@@ -2,8 +2,6 @@ My personal repository.
 
 💻 im a first year engineering student from Bhopal, India
 
-📑 currently working on my final project of CS50 Intro to CS course
-
 📩 reach me via mail at mahima.130@hotmail.com
 
 <!--
