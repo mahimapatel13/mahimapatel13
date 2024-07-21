@@ -2,7 +2,7 @@ My personal repository.
 
 💻 im a first year engineering student from Bhopal, India
 
-📩 reach me via mail at mahima.130@hotmail.com
+📩 reach me via mail at rgpvmahima@gmail.com
 
 <!--
 **mahimapatel13/mahimapatel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
