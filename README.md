@@ -1,6 +1,6 @@
 My personal repository.
 
-💻 im a first year engineering student from Bhopal, India
+hi. mahima this side
 
 <!--
 **mahimapatel13/mahimapatel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
